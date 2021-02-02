@@ -20,7 +20,7 @@
 </div>
 <div id="mobile-menu-wrap"></div>
 <div class="offcanvas__auth">
-<a href="#">Login/Register</a>
+<a href="login_register.php">Login/Register</a>
 </div>
 </div>
 

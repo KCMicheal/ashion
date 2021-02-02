@@ -33,7 +33,7 @@ edolore magna aliquapendisse ultrices gravida.</p>
 <div class="categories__text">
 <h4>Kid’s fashion</h4>
 <p>273 items</p>
-<a href="shop.php">Shop now</a>
+<a href="kids.php">Shop now</a>
 </div>
 </div>
 </div>
